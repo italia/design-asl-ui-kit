@@ -8,7 +8,6 @@ _🇮🇹 [Italian version](README.md)_
 
 **Template description**
 
-## 💙 How to contribute
+## How to contribute 💙
 
 How to contribute (issues, resources ecc..)
-
