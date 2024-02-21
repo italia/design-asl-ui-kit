@@ -6,26 +6,27 @@
 
 _🇬🇧 [English version](README.EN.md)_
 
-## ⚠️ Come utilizzare questo template
-
-La seguente sezione deve essere rimossa. 
-Per utilizzare questo template occorre:
-
-- Sostituire ogni riferimento nel repository di `design-ui-kit` con il nome GitHub di questo repository.
-- Caricare i file Figma o nella root del progetto o in una cartella.
-- Specificare nella action `.github/workflows/fig2sketch.yaml` la lista dei file Figma da convertire seguendo le istruzioni di [Figma to Sketch action](https://github.com/italia/figma-to-sketch-action).
-- Rimuovere questa sezione dal README
-- Modificare il titolo e nelle successive sezioni (compreso il README in lingua inglese) le descrizioni riguardanti il progetto.
-
 --- 
 
-**Descrizione di questa risorsa di template**
+## Descrizione
 
-Attenzione: alcune funzionalità presenti nei file Figma (.fig) potrebbero non 
-essere presenti e/o non corrette nei file .sketch convertiti utilizzando la 
-versione più recente di [fig2sketch](https://github.com/sketch-hq/fig2sketch). 
-È consigliato pertanto controllare sempre il risultato della conversione 
-e dichiarare lo stato delle risorse e questa eventualità agli utenti.
+Questo repository contiene lo UI Kit per il modello di sito per le aziende sanitarie locali (ASL) italiane.
+
+Il kit include le seguenti risorse:
+
+- i layout di esempio delle principali pagine del sito;
+- i templates delle tipologie di pagina;
+- la libreria di componenti;
+- una guida alla personalizzazione del modello;
+- i prototipi dei principali flussi di navigazione.
+
+Il kit, disponibile sia per Figma e Sketch, fornisce un quadro chiaro di come dovrebbe apparire e funzionare un esempio di sito web, aiutandoti a mantenere una coerenza visiva e funzionale con gli standard del modello.
+
+Attenzione: alcune funzionalità presenti nei file Figma (.fig) potrebbero non essere presenti e/o non corrette nei file .sketch convertiti utilizzando la versione più recente di fig2sketch. È consigliato pertanto controllare sempre il risultato della conversione e dichiarare lo stato delle risorse e questa eventualità agli utenti.
+
+Come iniziare
+
+Scarica l'ultima versione disponibile nella pagina [Releases](https://github.com/italia/design-asl-ui-kit/releases). Ogni rilascio include i files sia per Figma che per Sketch. Una volta scaricati, potrai aprire i file con i rispettivi programmi di progettazione e iniziare a esplorare le risorse.
 
 ## Come iniziare
 
@@ -34,5 +35,5 @@ del progetto qui su GitHub.
 
 ## Come contribuire 💙
 
-Descrizione di come contribuire (link alle issue, risorse ecc..)
+Se vuoi segnalare un problema o fare una richiesta di miglioria, apri un [issue](https://github.com/italia/design-asl-ui-kit/issues) utilizzando correttamente le [labels](https://github.com/italia/design-asl-ui-kit/labels) a seconda della tipologia di segnalazione.
 
