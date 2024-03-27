@@ -29,3 +29,5 @@ Download the latest available version on the [Releases](https://github.com/itali
 ## How to contribute 💙
 
 If you want to report a problem or make an improvement request, open an [issue](https://github.com/italia/design-asl-ui-kit/issues) properly using the [labels](https://github.com/italia/design-asl-ui-kit/labels) depending on the type of report.
+
+If you want to contribute with improvements or problem corrections, open a [pull request](https://github.com/italia/design-asl-ui-kit/pulls) using the [labels](https://github.com/italia/design-asl-ui-kit/labels) correctly depending on the type of contribution.
