@@ -24,14 +24,11 @@ Il kit, disponibile sia per Figma e Sketch, fornisce un quadro chiaro di come do
 
 Attenzione: alcune funzionalità presenti nei file Figma (.fig) potrebbero non essere presenti e/o non corrette nei file .sketch convertiti utilizzando la versione più recente di fig2sketch. È consigliato pertanto controllare sempre il risultato della conversione e dichiarare lo stato delle risorse e questa eventualità agli utenti.
 
-Come iniziare
-
-Scarica l'ultima versione disponibile nella pagina [Releases](https://github.com/italia/design-asl-ui-kit/releases). Ogni rilascio include i files sia per Figma che per Sketch. Una volta scaricati, potrai aprire i file con i rispettivi programmi di progettazione e iniziare a esplorare le risorse.
-
 ## Come iniziare
 
-Puoi trovare i file Figma e i file Sketch derivati nell'ultima release 
-del progetto qui su GitHub.
+Scarica l'ultima versione disponibile nella pagina [Releases](https://github.com/italia/design-asl-ui-kit/releases). Ogni rilascio include i files sia per Figma che per Sketch. 
+
+Una volta scaricati, potrai aprire i file con i rispettivi programmi di progettazione e iniziare a esplorare le risorse.
 
 ## Come contribuire 💙
 
