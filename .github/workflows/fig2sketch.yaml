@@ -31,3 +31,8 @@ jobs:
           allowUpdates: true
           makeLatest: true
           omitBodyDuringUpdate: true
+      - uses: italia/slack-notify-release-action@v0.2.0
+        with:
+          slack_token: ${{ secrets.SLACK_TOKEN }}
+          channel_id: ${{ secrets.SLACK_CHANNEL }}
+          project_name: Design ASL UI Kit
